@@ -1,0 +1,14 @@
+{
+  "name": "integer-sum",
+  "version": "1.0.0",
+  "description": "Finds pairs of integers from a list that sum to a given value",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Christian Barrios",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
